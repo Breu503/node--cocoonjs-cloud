@@ -1,4 +1,4 @@
-# CocoonJS Cloud API Node Module
+#  CocoonJS Cloud API Node Module
 
 > Node.js REST Client for the CocoonJS Cloud API
 
